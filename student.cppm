@@ -11,7 +11,7 @@
 
 export module registrar:student;//1
 import std;
-
+fff
 using std::string; using std::vector;
 
 export class Student
