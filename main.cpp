@@ -12,6 +12,7 @@
 //         * simulating view student schedule
 import registrar;
 import std;
+//
 
 int main()
 {
