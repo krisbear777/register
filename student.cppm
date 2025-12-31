@@ -9,9 +9,9 @@
 //     [v1.1] Wei Gong open-src@qq.com   2025-12-12
 //         * added the implementation of Student class
 
-export module registrar:student;
+export module registrar:student;//1
 import std;
-
+fff
 using std::string; using std::vector;
 
 export class Student
